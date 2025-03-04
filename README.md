@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Im new to GitHub and starting to learn to work with it! 
+
+- 🔭 I’m currently learning my way of working with GitHub!
+
+
 <!--
 **Hardconcept/Hardconcept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
